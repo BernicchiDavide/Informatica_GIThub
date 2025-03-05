@@ -1,0 +1,17 @@
+C:\Users\bernicchi.davide\Desktop\Informatica\Prova strumenti\Prova strumenti\bin\Debug\net8.0-windows\Prova strumenti.exe
+C:\Users\bernicchi.davide\Desktop\Informatica\Prova strumenti\Prova strumenti\bin\Debug\net8.0-windows\Prova strumenti.deps.json
+C:\Users\bernicchi.davide\Desktop\Informatica\Prova strumenti\Prova strumenti\bin\Debug\net8.0-windows\Prova strumenti.runtimeconfig.json
+C:\Users\bernicchi.davide\Desktop\Informatica\Prova strumenti\Prova strumenti\bin\Debug\net8.0-windows\Prova strumenti.dll
+C:\Users\bernicchi.davide\Desktop\Informatica\Prova strumenti\Prova strumenti\bin\Debug\net8.0-windows\Prova strumenti.pdb
+C:\Users\bernicchi.davide\Desktop\Informatica\Prova strumenti\Prova strumenti\obj\Debug\net8.0-windows\Prova_strumenti.Form1.resources
+C:\Users\bernicchi.davide\Desktop\Informatica\Prova strumenti\Prova strumenti\obj\Debug\net8.0-windows\Prova_strumenti.Properties.Resources.resources
+C:\Users\bernicchi.davide\Desktop\Informatica\Prova strumenti\Prova strumenti\obj\Debug\net8.0-windows\Prova strumenti.csproj.GenerateResource.cache
+C:\Users\bernicchi.davide\Desktop\Informatica\Prova strumenti\Prova strumenti\obj\Debug\net8.0-windows\Prova strumenti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bernicchi.davide\Desktop\Informatica\Prova strumenti\Prova strumenti\obj\Debug\net8.0-windows\Prova strumenti.AssemblyInfoInputs.cache
+C:\Users\bernicchi.davide\Desktop\Informatica\Prova strumenti\Prova strumenti\obj\Debug\net8.0-windows\Prova strumenti.AssemblyInfo.cs
+C:\Users\bernicchi.davide\Desktop\Informatica\Prova strumenti\Prova strumenti\obj\Debug\net8.0-windows\Prova strumenti.csproj.CoreCompileInputs.cache
+C:\Users\bernicchi.davide\Desktop\Informatica\Prova strumenti\Prova strumenti\obj\Debug\net8.0-windows\Prova strumenti.dll
+C:\Users\bernicchi.davide\Desktop\Informatica\Prova strumenti\Prova strumenti\obj\Debug\net8.0-windows\refint\Prova strumenti.dll
+C:\Users\bernicchi.davide\Desktop\Informatica\Prova strumenti\Prova strumenti\obj\Debug\net8.0-windows\Prova strumenti.pdb
+C:\Users\bernicchi.davide\Desktop\Informatica\Prova strumenti\Prova strumenti\obj\Debug\net8.0-windows\Prova strumenti.genruntimeconfig.cache
+C:\Users\bernicchi.davide\Desktop\Informatica\Prova strumenti\Prova strumenti\obj\Debug\net8.0-windows\ref\Prova strumenti.dll
