@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bernicchi.davide\\Desktop\\Informatica\\ES 41\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{251EFF53-D338-43BE-853D-2B135B5A9225}|ES 41\\ES 41.csproj|c:\\users\\bernicchi.davide\\desktop\\informatica\\es 41\\es 41\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{251EFF53-D338-43BE-853D-2B135B5A9225}|ES 41\\ES 41.csproj|solutionrelative:es 41\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bernicchi.davide\\Desktop\\Informatica\\ES 41\\ES 41\\Program.cs",
+              "RelativeDocumentMoniker": "ES 41\\Program.cs",
+              "ToolTip": "C:\\Users\\bernicchi.davide\\Desktop\\Informatica\\ES 41\\ES 41\\Program.cs",
+              "RelativeToolTip": "ES 41\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T07:31:14.197Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
