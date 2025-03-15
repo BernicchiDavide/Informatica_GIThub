@@ -1,0 +1,300 @@
+---
+Ape
+Orso
+Cavallo
+Gatto
+Rana
+Mulo
+Gufo
+Asino
+Pesce
+Lupo
+Topo
+Drago
+Dromedario
+Koala
+Porco
+Stambecco
+Cinghiale
+Giraffa
+Leone
+Tigre
+Foca
+Balena
+Capra
+Aquila
+Ippopotamo
+Elefante
+Pinguino
+Scoiattolo
+Coniglio
+Pulcino
+Scimmia
+Furetto
+Pappagallo
+Cervo
+Oca
+Cavalluccio
+Lince
+Puzzola
+Marmotta
+Gatto selvatico
+Cacatua
+Cigno
+Lucertola
+Grillo
+Lucertola
+Tacchino
+Polpo
+Balenottera
+Mandrillo
+Serpente
+Coccodrillo
+Zebu
+Agnello
+Farfalla
+Piccione
+Scarafaggio
+Anatra
+Capibara
+Nasello
+Salmone
+Lampreda
+Camaleonte
+Lombrico
+Cavalletta
+Fagiano
+Spugna
+Tartaruga
+Beccaccia
+Zanzara
+Gambero
+Cormorano
+Scoiattolo volante
+Cinghiale selvatico
+Delfino
+Granchio
+Foca monaca
+Ronzino
+Donnola
+Lucertola comune
+Cavaliere d’Italia
+Corvo imperiale
+Cavallo marino
+Gallo cedrone
+Lupo grigio
+Chimpanzé
+Fagiano di monte
+Lupo della tundra
+Cervo nobile
+Ocelot
+Armadillo
+Anfibio
+Canarino
+Colibrì
+Wallaby
+Tacchino selvatico
+Aquila reale
+Gambero di fiume
+Rana toro
+Cervo sika
+---
+Roma
+Parigi
+Berlino
+Londra
+Madrid
+New York
+Tokyo
+Mosca
+Sydney
+Rio de Janeiro
+Pechino
+Buenos Aires
+Istanbul
+Los Angeles
+Milano
+Toronto
+Atene
+Bangkok
+Cape Town
+Hong Kong
+Cairo
+Dubai
+São Paulo
+Seoul
+Toronto
+Città del Messico
+Jakarta
+Bangkok
+Nairobi
+Lima
+Manila
+Buenos Aires
+Amsterdam
+Cape Town
+Mumbai
+Santiago
+Lima
+Montreal
+Lima
+Santiago
+Chicago
+Caracas
+Kuala Lumpur
+Bogotà
+Rio de Janeiro
+Santiago
+New Delhi
+Vancouver
+Cairo
+NairobiRoma
+Parigi
+Berlino
+Londra
+Madrid
+New York
+Tokyo
+Mosca
+Sydney
+Rio de Janeiro
+Pechino
+Buenos Aires
+Istanbul
+Los Angeles
+Milano
+Toronto
+Atene
+Bangkok
+Cape Town
+Hong Kong
+Cairo
+Dubai
+São Paulo
+Seoul
+Toronto
+Città del Messico
+Jakarta
+Bangkok
+Nairobi
+Lima
+Manila
+Buenos Aires
+Amsterdam
+Cape Town
+Mumbai
+Santiago
+Lima
+Montreal
+Lima
+Santiago
+Chicago
+Caracas
+Kuala Lumpur
+Bogotà
+Rio de Janeiro
+Santiago
+New Delhi
+Vancouver
+Cairo
+Nairobi
+---
+Penna
+Libro
+Tazza
+Forchetta
+Coltello
+Cucchiaio
+Telefono
+Chiave
+Orologio
+Lampada
+Tavolo
+Sedia
+Zaino
+Cuscino
+Finestra
+Porta
+Saponetta
+Asciugamano
+Spazzola
+Scarpe
+Cappello
+Giacca
+Pantaloni
+Maglietta
+Cravatta
+Occhiali
+Borsa
+Stivale
+Sedia
+Orecchino
+Collana
+Braccialetto
+Filtro
+Cassetto
+Armadio
+Divano
+Specchio
+Scaffale
+Computer
+Mouse
+Tastiera
+Monitor
+Cavo
+Caricatore
+Bottiglia
+Bicchiere
+Piattino
+Tavolo
+Televisore
+Frigorifero
+Microonde
+Lavatrice
+Ferro da stiro
+Aspirapolvere
+Carta
+Matita
+Gomme
+Pennarello
+Raccoglitore
+Cartellina
+Cassetta
+Vasetto
+Candela
+Ventilatore
+Riscaldatore
+Cuscino
+Tappeto
+Tenda
+Piumone
+Coperta
+Scopa
+Pala
+Secchio
+Martello
+Chiodo
+Trapano
+Seghetto
+Cacciavite
+Punte
+Flessometro
+Misuratore
+Calcolatrice
+Macchina fotografica
+Videocamera
+Binocolo
+Altoparlante
+Microfono
+Cassa acustica
+Chitarra
+Pianoforte
+Batteria
+Tromba
+Fisarmonica
+Violino
+Sassofono
+Mandolino
+Arpa
+Tamburo
+Clarinetto
